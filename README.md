@@ -44,6 +44,7 @@ Description Files:
 1. Python 3.10+
 2. AWS S3
 3. AWS SageMaker
-4. Machine Learning Libraries: NumPy, Seaborn, Pandas, Scikit-Learn, Matplotlib.pyplot
+4. JupyterLab (Notebook Instance)
+5. Machine Learning Libraries: NumPy, Seaborn, Pandas, Scikit-Learn, Matplotlib.pyplot
 #### Results
 The process has been detailed in the Arvato Project Workbook.ipynb file. and the Project report is also included in PDF form.
