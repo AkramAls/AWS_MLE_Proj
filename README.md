@@ -7,7 +7,7 @@ The goal of this project is to analyze data collected by the company to optimize
   3. Customer Conversion Prediction: Using supervised learning to predict the likelihood of a person becoming a customer.
 
 #### Data Description
-The dataset is provided by Udacity and Arvato Financial Solutions. It includes four data files and two descriptive files explaining the features:
+The dataset is provided by Udacity and Arvato Financial Solutions. It includes four data files and two descriptive files explaining the features. Note: due to data terms and condition the dataset has been deleted as keeping it will be considered a voilation of those terms and conditions. The dataset contains a summed up following descrpition:
 
 Customer Segmentation:
 
